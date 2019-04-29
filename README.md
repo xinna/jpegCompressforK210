@@ -1,6 +1,7 @@
 # JPEG Encoder from OpenMV
 
 * Remove dynamic memory alloc
+* K210 SDK Version: 0.54
 
 ## Usage
 
